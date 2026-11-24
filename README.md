@@ -17,6 +17,21 @@ limitations under the License.
 
 <h2><img align="center" src="https://github.com/user-attachments/assets/cbe0d62f-c856-4e0b-b3ee-6184b7c4d96f">NVIDIA AI Blueprint: Bring Your LLM to NIM</h2>
 
+<!-- frontend:start -->
+## Project explorer
+
+A browsable front end for this repository, built from its own README, Compose files, dependency manifests and folder layout. Clone the repository and open `frontend/index.html` in a browser to explore it.
+
+| Overview | Architecture |
+|---|---|
+| ![Overview](docs/frontend/overview.png) | ![Architecture](docs/frontend/architecture.png) |
+
+| Tech stack | Files |
+|---|---|
+| ![Tech stack](docs/frontend/stack.png) | ![Files](docs/frontend/files.png) |
+<!-- frontend:end -->
+
+
 Deploy your own Large Language Model (LLM) using NVIDIA NIM - a powerful service that automatically optimizes your model for maximum performance on NVIDIA GPUs.
 
 ## What is NIM?
